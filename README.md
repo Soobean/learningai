@@ -12,3 +12,5 @@
 ## Category 5 . Reinforcement Learning
 
 ## Category 6 . Basic
+  - Supervised Learning/Unsupervised Leanring/Reinforcement Learning
+  - Overfitting/Underfitting,학습단위(Epoch, Batch Size, Iteration) 
