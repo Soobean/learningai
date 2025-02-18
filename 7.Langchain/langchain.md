@@ -209,7 +209,6 @@ result = chain.invoke({
 print(result)
 ```
 
-[Azure_LangChain.ipynb](attachment:6f7bc023-1d38-4143-9930-8c2fa1668a20:Azure_LangChain.ipynb)
 
 ### **출처**
 
